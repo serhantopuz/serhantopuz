@@ -1,8 +1,7 @@
 # Serhan Topuz
 
 MSc Mobile Robotics @ University of Bonn. I build autonomous robot software —
-ROS 2, C++ and Python — and I implement the core algorithms myself rather than
-configuring existing ones.
+ROS 2, C++ and Python.
 
 **Open to Werkstudent roles in robotics — Bonn / Cologne / remote.**
 Enrolled full-time · available 20 h/week during semester, more between terms ·
