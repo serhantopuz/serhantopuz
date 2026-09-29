@@ -5,7 +5,7 @@ ROS 2, C++ and Python.
 
 **Open to Werkstudent roles in robotics — Bonn / Cologne / remote.**
 Enrolled full-time · available 20 h/week during semester, more between terms ·
-English fluent, German A1 and actively learning.
+English B2(IELTS-6.5), German A1 and actively learning.
 
 ## Projects
 
